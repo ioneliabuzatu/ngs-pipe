@@ -26,4 +26,4 @@ The analysis consits of:
     7. Visualization 
         - igv visualization [bedgraphs(normed) into igv]
         - heatmap peaks
-    8. Diffenrential Analysis [e.g. find markers]
+    8. Differential Analysis [e.g. find markers]
