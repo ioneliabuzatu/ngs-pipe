@@ -31,5 +31,4 @@ The analysis consits of:
     
     
     Part 2 (chromID):
-    
-    [click here to view chromid_analysis html file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/ngs-pipe/blob/main/chromid_analysis.html)
+    [click here to view chromid analysis html file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/ngs-pipe/blob/main/chromid_analysis.html)
