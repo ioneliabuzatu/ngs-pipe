@@ -1,5 +1,6 @@
 # ngs-pipe
 
+Part 1 (tutorial):
 [click here to see data analysis HTML file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/ngs-pipe/blob/main/ngs_pipeline.html)
 
 The analysis consits of:
@@ -27,3 +28,8 @@ The analysis consits of:
         - igv visualization [bedgraphs(normed) into igv]
         - heatmap peaks
     8. Differential Analysis [e.g. find markers]
+    
+    
+    Part 2 (chromID):
+    
+    [click here to view chromid_analysis.html file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/ngs-pipe/blob/main/chromid_analysis.html)
