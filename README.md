@@ -1,5 +1,32 @@
 # ngs-pipe
 
+Part 2 (chromID):
+[click here to view chromid analysis html file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/ngs-pipe/blob/main/chromid_analysis.html)
+
+The analysis consits of:
+
+    0. Data and task
+        - download it
+        - get fastqc files
+        - quality control
+    1. Reads downsampling (later use)
+        - to 7M
+    2. Trimming
+        stats after trimming
+    3. Alignment
+        - stats after alignment
+    4. Remove Duplicates
+    5. Remove blacklist sequences
+    6. Peak Calling
+         - convert broadPeaks to bed format
+    7. Genome Wide Coverage Plot
+        - IGV
+    8. Heatmaps peaks
+         - visualize the peak calling bed files
+    9. Compare peaks - author vs reproduced
+    10. Redo comparison after removing duplicates and blacklist
+    
+
 Part 1 (tutorial):
 [click here to see tutorial data analysis HTML file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/ngs-pipe/blob/main/ngs_pipeline.html)
 
@@ -30,5 +57,3 @@ The analysis consits of:
     8. Differential Analysis [e.g. find markers]
     
     
-    Part 2 (chromID):
-    [click here to view chromid analysis html file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/ngs-pipe/blob/main/chromid_analysis.html)
